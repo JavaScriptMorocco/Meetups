@@ -12,7 +12,7 @@ Check the calendar on our [Meetup page](https://www.meetup.com/Morocco-JS/events
 ## 🎙 How to propose a talk
 
 There's usually a corresponding [issue](https://github.com/JSschool-dev/Morocco.js/issues)
-To propose a talk simply leave a comment in an issue for that month.
+To propose a talk simply leave a comment in the next event's issue.
 
 
 ## 💬 Reach out to the organizers
