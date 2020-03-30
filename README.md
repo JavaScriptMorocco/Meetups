@@ -4,10 +4,10 @@
 
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
-  NEXT | [Morocco.js - March 20](https://www.meetup.com/Morocco-js/events/269511287/) | 28 March 2020 (Sat) | Online
+  NEXT | [JavaScript Morocco - April 3](https://www.meetup.com/JavaScript-Morocco/events/269511287/) | 03 April 2020 (Sat) | Online
 
  
-Check the calendar on our [Meetup page](https://www.meetup.com/Morocco-JS/events/) for all upcoming events.
+Check the calendar on our [Meetup page](https://www.meetup.com/JavaScript-Morocco/events/) for all upcoming events.
 
 ## 🎙 How to propose a talk
 
