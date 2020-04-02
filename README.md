@@ -4,7 +4,7 @@
 
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
-  NEXT | [Online Meetup #1](https://www.meetup.com/JavaScript-Morocco/events/269511287/) | 03 April 2020 (Sat) | Online | Azure Functions from A to Z with [Wassim Chegham](https://github.com/manekinekko)
+  NEXT | [Online Meetup #1](https://www.meetup.com/JavaScript-Morocco/events/269511287/) | 03 April 2020 (Fri) | Online | Azure Functions from A to Z with [Wassim Chegham](https://github.com/manekinekko)
 
  
 Check the calendar on our [Meetup page](https://www.meetup.com/JavaScript-Morocco/events/) for all upcoming events.
