@@ -1,4 +1,4 @@
-## Online meetups organized by the Moroccon JavaScript Community
+## Online meetups organized by the Moroccan JavaScript Community
 
 ## 🗓 Schedule
 
